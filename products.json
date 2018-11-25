@@ -1,8 +1,48 @@
 [
-  {"Name":"Turnstiles","Info":"Our Turnstiles are made of galivanted steel with a choice of powder coats, a dim section of 2m v 1.5m v 1.5m, in the case of power failure turnstiles will operate freely to allow quick escape in case of emergency. Used for restricting passages so that only one person may pass at a time helping to limit the flow of people past a point; in addition, you can add a coin, ticket or pass system allowing access for paying customers. Our turnstiles are ideal for Stadiums, large events, construction sites and other sites where security is required."},
-  {"Name":"Telescopic Gates","Info":"Telescopic gates are ideal in achieving the maximum clear opening where run back is restricted and can be made with up to five sections of mesh, wooden infil or bars of mild steel allowing for run back to be reduced by up to 75%, compared to a single leaf gate. These gates are ideal to secure a commercial or residential area, ideal for offices, car parks, commercial estates and much more."},
-  {"Name":"Automatic Sliding Gates","Info":"Automatic sliding gates provide a high security solution for many sites and can be used on rising driveways as they do not have to “rise up” the driveway and can be utilised providing there is room for one or two leaves to slide in one or either direction beyond the opening."},
-  {"Name":"Overhead Vehicle Barriers","Info":"Overhead vehicle barriers Depending on your site’s requirements and location, we supply a range of overhead vehicle barriers. These are a simple but effective solution for controlling access to car parks or other areas. "},
-  {"Name":"Around the Corner Sliding Gate","Info":"around the corner sliding gate helpful in achieving  the maximum clear opening where run back is restricted, our precision drive system powers the gate allowing for drawback smoothly and quickly whilst operating in any weather conditions. Made with mild steel and a range of different powder coated colours."}
+  {
+    "name":"Full Height Turnstiles",
+    "info": {
+      "summery": "Turnstiles are used for restricting passages so that only one person may pass at a time helping to limit the flow of people past a point. They provide a secure barrier for entry allowing easier management and control of people entering and exiting a secured area. ",
+      "generalInfo": "Standard Sizing as follows: 2m Height, 1.5m Length 1.5m, Width. In case of power failure, turnstiles will operate freely to allow quick escape in case of emergency. Turnstile is supplied on a steel base but can be mounted to suitable flooring if required. ",
+      "finish": "Our standard turnstiles are galvanised steel with a choice of powder coats if required.",
+      "additions": "You can add a coin, ticket/pass system allowing access for paying customers or fobbed entry to employees, the turnstile can be tailored to your requirements. A canopy can be added for additional security to stop anyone climbing over the turnstile. ",
+      "applications": "Turnstiles can be used in a variety of locations such as the following. Stadiums, office buildings, festivals, events, factories, schools and construction site."
+    }
+ },  {
+  "name":"Telescopic Sliding Gates",
+  "info": {
+    "summery": "Telescopic gates are ideal for achieving protection of a large opening where the run back is restricted, this can be made with up of a maximum of three gate leaves, allowing for run back to be reduced by up to 75%, compared to a single leaf gate.",
+    "generalInfo": "Height: 1m – 2.4m & Length: 3m – 12m & Width: Varies (dependent on amount of gate leaves required)",
+    "finish": "We can provide a variety of finishes. We recommend with all mild steel gates a galvanised protection with a powder coated finish. The infill (the space inside the gate frame) can be filled with the following Security mesh, wooden planks steel bars, aluminium planks. Additional options can be discussed. ",
+    "additions": "None noted.",
+    "applications": "These gates are ideal to secure a commercial or residential properties, ideal for offices, car parks, commercial estates, factories and other areas where large opening are required."
+  }
+},  {
+  "name":"Automatic Sliding Gates",
+  "info": {
+    "summery": "Automated sliding gates provide a secure access barrier to your property, a simple but effective tacked sliding gate can be located; normally at vehicle access locations to control who is entering and exiting the property. The operation of the gate can be tailored to your requirements.",
+    "generalInfo": "Height 1m – 2.4m & Length 3m – 8m",
+    "finish": "We can provide a variety of finishes. We recommend with all mild steel gates a galvanised protection with a powder coated finish. The infill (the space inside the gate frame) can be filled with the following Security mesh, wooden planks steel bars, aluminium planks. Additional options can be discussed. ",
+    "additions": "None noted.",
+    "applications": "These gates are ideal to secure a residential or commercial properties, ideal for offices, car parks, commercial estates, factories."
+  }
+},  {
+  "name":"Overhead Vehicle Barriers",
+  "info": {
+    "summery": "Overhead Barrier are great solutions when you are trying to limit what type of vehicle accesses you compound/property, normally carparks. An Overhead barrier will limit the height or width of a vehicle that can pass the barrier. With visible signage for a driver to clearly see what access is present. ",
+    "generalInfo": "Height Restriction: 1.8m – 2.6m restriction & Width(opening): 3m – 10m ",
+    "finish": "Our standard turnstiles are galvanised steel with a choice of powder coats if required.",
+    "additions": "None noted.",
+    "applications": "Carparks, factories, Stores and Shopping centres, Holiday resorts."
+  }
+},  {
+  "name":"Cantilever Sliding Gate",
+  "info": {
+    "summery": "Cantilever gates are ideal for achieving protection of a large openings where the run back is available, it is also ideal for areas where the finished floor is uneven or sloping. The gate cantilevers/floats above the opening as it moves.",
+    "generalInfo": "Height 1m – 2.4m & Length 3m – 12m",
+    "finish": "We can provide a variety of finishes. We recommend with all mild steel gates a galvanised protection with a powder coated finish. The infill (the space inside the gate frame) can be filled with the following Security mesh, wooden planks steel bars, aluminium planks. Additional options can be discussed. ",
+    "additions": "None noted.",
+    "applications": "These gates are ideal to secure a residential or commercial properties, ideal for offices, car parks, commercial estates, factories."
+    }
+  }
 ]
-
