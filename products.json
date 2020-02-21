@@ -83,5 +83,35 @@
   "video": "https://s3-eu-west-1.amazonaws.com/access-barriers-uk-data/Security+Gate/Security+Gate+1.JPG",
   "datasheet": "https://s3-eu-west-1.amazonaws.com/access-barriers-uk-data/Security+Gate/Security+Gates%2C+Data+Sheet.pdf",
   "drawingsheet": "https://s3.eu-west-1.amazonaws.com/access-barriers-uk-data/Security%20Gate/Security%20Gates%20-%20Drawing%20R0.PDF"
+  },
+  {
+      "id":7,
+      "name":"Height Restrictor",
+      "info": {
+        "summery": "This product is a great way to stop vehicles over a desired height entering a car park, whilst still allowing lower level vehicles entry.",
+        "generalInfo": "Size 2m-6m long (As standard) and height 2m/ 2.1m/ 2.4m (As standard)",
+        "finish": "Available in RAL 3020 Red, RAL 1023 Yellow as standard, with other colours available upon request.",
+        "additions": "None noted.",
+        "applications": "Carparks, factories, Stores and Shopping centres, Holiday resorts."
+      },
+      "preview": "https://access-barriers-uk-data.s3-eu-west-1.amazonaws.com/Images+For+Products/heightrestrictor.jpg",
+      "video": "",
+      "datasheet": "",
+      "drawingsheet": ""
+  },
+  {
+    "id":8,
+    "name":"Parking Barriers",
+    "info": {
+      "summery": "Parking barriers stop all vehicles accessing the site with a cost effective manual solution.",
+      "generalInfo": "Single sizes 2-5m (As standard) and double sizes 4-9m (As standard)",
+      "finish": "Available in RAL 3020 Red, RAL 1023 Yellow as standard, with other colours available upon request",
+      "additions": "None noted",
+      "applications": "Carparks, factories, Stores and Shopping centres, Holiday resorts."
+    },
+    "preview": "https://access-barriers-uk-data.s3-eu-west-1.amazonaws.com/Images+For+Products/parkingbarrier.jpg",
+    "video": "",
+    "datasheet": "",
+    "drawingsheet": ""
   }
 ]
