@@ -47,7 +47,7 @@
 },  {
     "id":4,
     "type": "barrier",
-    "name":"Overhead Vehicle Barriers",
+    "name":"Swing - Height Restriction",
     "info": {
         "summery": "Overhead Barrier are great solutions when you are trying to limit what type of vehicle accesses you compound/property, normally carparks. An Overhead barrier will limit the height or width of a vehicle that can pass the barrier. With visible signage for a driver to clearly see what access is present. ",
         "generalInfo": "Height Restriction: 1.8m – 2.6m restriction & Width(opening): 3m – 10m ",
@@ -93,7 +93,7 @@
   {
     "id":7,
     "type": "barrier",
-    "name":"Height Restrictor",
+    "name":"Static - Height Restriction",
     "info": {
     "summery": "This product is a great way to stop vehicles over a desired height entering a car park, whilst still allowing lower level vehicles entry.",
     "generalInfo": "Size 2m-6m long (As standard) and height 2m/ 2.1m/ 2.4m (As standard)",
