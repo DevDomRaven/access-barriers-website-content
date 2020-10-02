@@ -121,5 +121,21 @@
     "video": "",
     "datasheet": "",
     "drawingsheet": ""
+  },
+  {
+    "id":9,
+    "type": "gate",
+    "name":"Swing Gates",
+    "info": {
+      "summery": "We manufacture and install bespoke and standard swing gates suitable for both domestic and commercial use. Whether you know exactly what you are after or you are unsure here at Access Barriers UK our team is committed to giving you the best advise possible to create a gate that has both the aesthetic appeal and full functionality you desire. We can vary the design of the gate and the way in which they open to allow functionality on a range of slopes. \nWe offer three mechanisms for power: Underground automatic gate motors, surface automatic gate RAMS, Universal arms (sometimes known as articulated or jointed arms). \nUnderground systems: while these systems tend to be more expensive, they are more aesthetically pleasing as the motors are “hidden” stopping them from detracting from the gate. Due to their design they can open to 180° stopping the gates from potentially encroaching an internal part of the driveway. \nRAMS: This system usually requires steel posts on which to pivot and a vital operating geometry to operate effectively. The opposite end of the gate RAM is attached to the inside of the gate leaf allowing the RAM to open the gate by pulling the gate open and pushing it shut. While not as aesthetically pleasing they offer an effective lower cost solution and can be hidden behind certain gate features to provide a clean look from the outside. Great for commercial and domestic use, best when the gate is fully cladded, allows for intensive use while maintaining reliability.",
+      "generalInfo": "Single sizes 2-5m (As standard) and double sizes 4-9m (As standard)",
+      "finish": "Available in RAL 3020 Red, RAL 1023 Yellow as standard, with other colours available upon request",
+      "additions": "None noted",
+      "applications": "Carparks, factories, Stores and Shopping centres, Holiday resorts."
+    },
+    "preview": "https://access-barriers-uk-data.s3-eu-west-1.amazonaws.com/Images+For+Products/parkingbarrier.jpg",
+    "video": "",
+    "datasheet": "",
+    "drawingsheet": ""
   }
 ]
